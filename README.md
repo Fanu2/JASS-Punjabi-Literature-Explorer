@@ -1,3 +1,5 @@
+<img width="1902" height="982" alt="image" src="https://github.com/user-attachments/assets/23829f33-5c83-43dc-b9e3-ea9c0f9adee4" />
+
 # JASS Punjabi Literature Explorer
 
 **Version:** v1.1\
